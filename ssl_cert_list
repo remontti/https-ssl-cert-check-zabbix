@@ -16,6 +16,6 @@
 		"{#SSLPORT}": "8080",
 		"{#SSLDOMAIN}": "speedtest.meudominio.com.br",
 		"{#TIMEOUT}": "30"
-	},
+	}
 
 ]}
