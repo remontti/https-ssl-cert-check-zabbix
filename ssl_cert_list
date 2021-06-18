@@ -1,0 +1,21 @@
+{ "data": [
+	{
+		"{#IPADDR}": "google.com.br",
+		"{#SSLPORT}": "443",
+		"{#SSLDOMAIN}": "google.com.br",
+		"{#TIMEOUT}": "30"
+	},
+	{
+		"{#IPADDR}": "facebook.com",
+		"{#SSLPORT}": "443",
+		"{#SSLDOMAIN}": "facebook.com",
+		"{#TIMEOUT}": "30"
+	},
+	{
+		"{#IPADDR}": "speedtest.meudominio.com.br",
+		"{#SSLPORT}": "8080",
+		"{#SSLDOMAIN}": "speedtest.meudominio.com.br",
+		"{#TIMEOUT}": "30"
+	},
+
+]}
