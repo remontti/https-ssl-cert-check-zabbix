@@ -1,7 +1,8 @@
 Baseado em: https://github.com/selivan/https-ssl-cert-check-zabbix
 
 
-```bashcd /usr/lib/zabbix/externalscripts
+```bash
+cd /usr/lib/zabbix/externalscripts
 wget https://raw.githubusercontent.com/remontti/https-ssl-cert-check-zabbix/master/ssl_cert_check.sh
 wget https://raw.githubusercontent.com/remontti/https-ssl-cert-check-zabbix/master/ssl_cert_list
 chmod +x ssl_cert_check.sh
