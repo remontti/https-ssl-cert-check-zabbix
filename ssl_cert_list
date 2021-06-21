@@ -12,10 +12,15 @@
 		"{#TIMEOUT}": "30"
 	},
 	{
-		"{#IPADDR}": "speedtest.meudominio.com.br",
+		"{#IPADDR}": "45.45.45.45",
 		"{#SSLPORT}": "8080",
 		"{#SSLDOMAIN}": "speedtest.meudominio.com.br",
 		"{#TIMEOUT}": "30"
+	},
+        {
+		"{#IPADDR}": "45.50.60.70",
+		"{#SSLPORT}": "443",
+		"{#SSLDOMAIN}": "45.50.60.70",
+		"{#TIMEOUT}": "30"
 	}
-
 ]}
