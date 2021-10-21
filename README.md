@@ -17,7 +17,7 @@ chown zabbix. /usr/lib/zabbix/externalscripts/ -R
 systemctl restart zabbix-agent
 ```
 
-Impote o template e Host para de zabbix 5.x
+Importe o template e Host para de zabbix 5.x
 
 Uso no terminal/faça teste:
 ```bash
